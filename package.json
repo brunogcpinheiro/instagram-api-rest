@@ -1,0 +1,34 @@
+{
+  "name": "instagram-api-rest",
+  "version": "1.0.0",
+  "description": "Instagram clone API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunogcpinheiro/instagram-api-rest.git"
+  },
+  "keywords": [
+    "Instagram",
+    "Clone",
+    "API",
+    "REST"
+  ],
+  "author": "Bruno Carpinelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunogcpinheiro/instagram-api-rest/issues"
+  },
+  "homepage": "https://github.com/brunogcpinheiro/instagram-api-rest#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
